@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997067858690",
+    "project_id": "fruits-9c30c",
+    "storage_bucket": "fruits-9c30c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997067858690:android:add480f079b473d355581b",
+        "android_client_info": {
+          "package_name": "com.multitouchenterprisekenya.fruits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997067858690-dod9uvvk7oj5sctvj033enk6qaqltgkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPmyOY3SeseBzmM-TWRGOZTdlBgSoSnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997067858690-dod9uvvk7oj5sctvj033enk6qaqltgkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
